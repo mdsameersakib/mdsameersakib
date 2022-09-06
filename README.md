@@ -6,13 +6,13 @@
 
 More about me :
 
-🏠Lives in Dhaka, Bangladesh
+  -🏠Lives in Dhaka, Bangladesh
 
-🎓Studies (BSc) in Computer Science and Engineering (CSE) at BRAC University
+  -🎓Studies (BSc) in Computer Science and Engineering (CSE) at BRAC University
 
-🏫Studied at Willes Little Flower School & College
+  -🏫Studied at Willes Little Flower School & College
 
-🏫Studied at National Ideal School,Dhaka
+  -🏫Studied at National Ideal School,Dhaka
 
 <!---
 mdsameersakib/mdsameersakib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
