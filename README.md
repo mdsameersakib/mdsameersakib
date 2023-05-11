@@ -22,7 +22,7 @@
 
 ## 🖥️ My Workstation
 ![i5-9th-gen](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1050ti](https://img.shields.io/badge/NVIDIA-GTX_1050_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![gtx-1050ti](https://img.shields.io/badge/NVIDIA-RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
