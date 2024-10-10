@@ -1,9 +1,9 @@
 ## About Me
 - 👋 Hi, I am known by the name "Sameer Sakib" and I'm a student. I am now pursuing a BS in Computer Science and Engineering at BRAC University. I anticipate graduating in the year 2026.
 
-- 👀 My passions lie in the realms of competitive programming and electronic sports. I'm a person that enjoys coming up with novel solutions to challenges and developing fresh ideas. Also a freelance event planner for eSports tournaments.
+- 👀 My passions lie in the realms of coming up with novel solutions to challenges and developing fresh ideas. Also a freelance event planner for eSports tournaments.
 
-- 🌱 I have just begun studying Python. But I want to expand my linguistic horizons in the near future.
+- 🌱 Learning Kotlin now. (Python, JavaScript, HTML) 
 
 - 💞️ For me, the best part of life is diving headfirst into a challenging endeavor.
 
