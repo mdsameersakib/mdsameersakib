@@ -18,11 +18,58 @@
       -🏫Studied at National Ideal School,Dhaka
      
 ## 🛠️ Skills
+### **💻 Programming Languages**  
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+
+---
+
+### **📱 Mobile Development**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+
+---
+
+### **🖥️ Other Skills**  
+Machine Learning & AI: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+
+---
+
+### **☁️ Cloud Services**  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
+
+---
+
+### 🔒 Cybersecurity Skills & Tools  
+
+#### **🖥️ Tools & Platforms**  
+![Nmap](https://img.shields.io/badge/Nmap-007F5F?style=for-the-badge&logo=nmap&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-6C6C6C?style=for-the-badge&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-5A5A5A?style=for-the-badge&logo=metasploit&logoColor=white)  
+
+---
+
+### **🔗 Networking Skills**  
+Understanding of common protocols and architecture:  
+- TCP/IP, DNS, HTTP/HTTPS, FTP, and SMTP  
+- Network Analysis, Packet Capturing  
+
+---
+
+---
+
+### **🖥️ Database Technologies**  
+Include databases you have experience with:
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+---
 
 ## 🖥️ My Workstation
 ![i5-9th-gen](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1050ti](https://img.shields.io/badge/NVIDIA-RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![gtx-1050ti](https://img.shields.io/badge/NVIDIA-RTX_1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
@@ -33,3 +80,9 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/mdsameersakib)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sameersakib_/)
 [![twitter](https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mdsameersakib/)
+
+
+
+
+
+
