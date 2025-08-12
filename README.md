@@ -38,7 +38,7 @@ Machine Learning & AI: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6
 
 ### **☁️ Cloud Services**  
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ---
 
 ### 🔒 Cybersecurity Skills & Tools  
@@ -69,9 +69,10 @@ Include databases you have experience with:
 
 ## 🖥️ My Workstation
 ![i5-9th-gen](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1050ti](https://img.shields.io/badge/NVIDIA-RTX_1050ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![gtx-1660-Super](https://img.shields.io/badge/NVIDIA-RTX_1660_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Android-Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ## 🔗 Links
 [![facebook](https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdsameersakib/)
