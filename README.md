@@ -1,5 +1,5 @@
 ## About Me
-- 👋 Hi, I am known by the name "Sameer Sakib" and I'm a student. I am now pursuing a BS in Computer Science and Engineering at BRAC University. I anticipate graduating in the year 2026.
+- 👋 Hi, I am known by the name "Sameer Sakib" and I'm a student. I am now pursuing a Bachelor's in Computer Science at BRAC University. I anticipate graduating in the year 2026.
 
 - 👀 My passions lie in the realms of coming up with novel solutions to challenges and developing fresh ideas. Also a freelance event planner for eSports tournaments.
 
@@ -13,7 +13,7 @@
 
 ## More about me :
       -🏠Lives in Dhaka, Bangladesh
-      -🎓Studies (BSc) in Computer Science and Engineering (CSE) at BRAC University
+      -🎓Studies (BSc) in Computer Science at BRAC University
       -🏫Studied at Willes Little Flower School & College
       -🏫Studied at National Ideal School,Dhaka
      
