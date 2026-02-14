@@ -1,89 +1,96 @@
-## About Me
-- 👋 Hi, I am known by the name "Sameer Sakib" and I'm a student. I am now pursuing a Bachelor's in Computer Science at BRAC University. I anticipate graduating in the year 2026.
-
-- 👀 My passions lie in the realms of coming up with novel solutions to challenges and developing fresh ideas. Also a freelance event planner for eSports tournaments.
-
-- 🌱 Learning Kotlin now. (Python, JavaScript, HTML) 
-
-- 💞️ For me, the best part of life is diving headfirst into a challenging endeavor.
-
-- 🎬 Whenever I need a break from technology, I like to catch up on the latest shows and movies. Criminal and mysterious stories are my favorites.
-
-- 📫 Check this out *https://mdsameersakib.bio.link*
-
-## More about me :
-      -🏠Lives in Dhaka, Bangladesh
-      -🎓Studies (BSc) in Computer Science at BRAC University
-      -🏫Studied at Willes Little Flower School & College
-      -🏫Studied at National Ideal School,Dhaka
-     
-## 🛠️ Skills
-### **💻 Programming Languages**  
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+<!-- Hero -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Md.%20Sameer%20Sakib&fontAlign=50&fontAlignY=38&desc=Software%20Systems%20Developer%0AMobile%20%E2%80%A2%20Web%20%E2%80%A2%20Cloud%0AShipping%20features%20%E2%80%A2%20Fixing%20bugs%20%E2%80%A2%20Optimizing%20performance&descAlign=50&descAlignY=62&descSize=16&color=0:ff7a18,100:ffb347&fontColor=ffffff&descColor=ffffff" />
+</p>
 
 ---
 
-### **📱 Mobile Development**  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+**Software Systems Developer** • Web • PWA • Custom CRM  
+Bangladesh (GMT+6)
+Open to: Freelance / Part-Time / Internship
+
+I build **software systems**, **web apps**, **PWAs**, and **SaaS-style custom CRMs**—from clean UI to working data flows.  
+I also jump into existing codebases to **ship features**, **fix bugs**, **refactor**, and **optimize performance** for production.
 
 ---
 
-### **🖥️ Other Skills**  
-Machine Learning & AI: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+## What I build
+- **Internal tools & admin dashboards** (workflows, reporting, role-based access)
+- **Websites & PWAs** (fast, responsive, app-like UX)
+- **Custom CRM systems** (pipelines, automation, analytics, exports)
+- **Database + auth integrations** (Supabase/Postgres, MongoDB, Firebase)
+- **Feature delivery & optimization** (scaling, stability, cleanup)
+
+---
+## Tech Stack
+
+<table border="0" style="border:none;border-collapse:collapse;">
+  <tr>
+    <td width="55%" align="center" valign="top" style="border:none; padding: 0 16px 0 0;">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Skills_Animation_Dark.gif">
+  <img alt="Tech stack animation" src="assets/Skills_Animation_White.gif" width="520">
+</picture>
+
+</td>
+<td width="45%" valign="top" style="border:none; padding: 0;">
+
+### Mobile
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
+### Web
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+### Similar frameworks (open to)
+<img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" />
+<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+<img src="https://img.shields.io/badge/SvelteKit-000000?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+### Databases / BaaS
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+## Stats
+
+<p align="center">
+  <!-- <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdsameersakib&show_icons=true&rank_icon=github" /> -->
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsameersakib" />
+</p>
+
+<!-- <p align="center">
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdsameersakib&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdsameersakib&row=1&column=6" />
+</p> -->
 
 ---
 
-### **☁️ Cloud Services**  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
----
+## Contribution Snake 🐍
 
-### 🔒 Cybersecurity Skills & Tools  
-
-#### **🖥️ Tools & Platforms**  
-![Nmap](https://img.shields.io/badge/Nmap-007F5F?style=for-the-badge&logo=nmap&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-6C6C6C?style=for-the-badge&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-5A5A5A?style=for-the-badge&logo=metasploit&logoColor=white)  
-
----
-
-### **🔗 Networking Skills**  
-Understanding of common protocols and architecture:  
-- TCP/IP, DNS, HTTP/HTTPS, FTP, and SMTP  
-- Network Analysis, Packet Capturing  
-
----
-
----
-
-### **🖥️ Database Technologies**  
-Include databases you have experience with:
-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-- ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
----
-
-## 🖥️ My Workstation
-![i5-9th-gen](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1660-Super](https://img.shields.io/badge/NVIDIA-RTX_1660_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-![Android-Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
-## 🔗 Links
-[![facebook](https://img.shields.io/badge/facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdsameersakib/)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mdsameersakib/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mdsameersakib)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/mdsameersakib)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sameersakib_/)
-[![twitter](https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mdsameersakib/)
-
-
-
-
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdsameersakib/mdsameersakib/output/snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/mdsameersakib/mdsameersakib/output/snake.svg" />
+  </picture>
+</p>
